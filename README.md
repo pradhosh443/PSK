@@ -144,11 +144,11 @@ plt.show()
 # Output Waveform
 # PSK
 
-<img width="1156" height="660" alt="image" src="https://github.com/user-attachments/assets/2d71c13a-92dc-40df-a620-41e6021e0f51" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2d71c13a-92dc-40df-a620-41e6021e0f51" />
 
 # QPSK
 
-<img width="1185" height="578" alt="image" src="https://github.com/user-attachments/assets/d51f418f-42e3-4b78-b9dd-225a8fcc2d63" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/d51f418f-42e3-4b78-b9dd-225a8fcc2d63" />
 
 
 # Results
